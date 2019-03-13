@@ -11,6 +11,20 @@ To aid whale conservation efforts, scientists use photo surveillance systems to 
 In this project, we plan to use the whale tails to predict the classes of that whale. Not only does this method help scientists survive the whales but also a good way to record the whale activity. Tourists can upload the photo on the website they took by chance and get what does this whale belong to. This AI method is a new applications in many aspects.  
 
 
+# Optimization steps 
+
+## 1. [version1.0](https://github.com/NancyWu2168/EECS-435/blob/master/version1.0.ipynb)
+
+For the first time, we simply do some analysis on the dataset. Training the model without any augmentation. Using Alexnet described as five convolutional layers and three fully connected layers, we train the first model and the final result is 63.8%, which seems not good enough.
+
+However, we found that the number of classes is not balance (see in Figure 1).
+
+<p align=center>
+  
+  <img width="250" height="250" src="https://github.com/NancyWu2168/EECS-435/blob/master/file/1.png">
+
+</p>
+
 
 References
 
