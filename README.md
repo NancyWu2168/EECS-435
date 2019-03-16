@@ -3,7 +3,7 @@
 The final project of EECS 435 in Northwestern  
 Group member: Yunan Wu, Yifan Le
 
-video address: 
+video address: https://www.youtube.com/watch?v=TN4PY52cAYk
 
 # Background
 As known, Japanese and Norway are the two major countries in the whaling industry. Japanese whaling incredibly began in the Jomon period[1] (the first 131st century - the first 4th century), which was considered as the significant part of fisheries. After the International Whaling Commission banned commercial whaling, Japan’s massive commercial whaling in the 20th century ended[2].But after centuries of intense whaling, recovering whale populations still have a hard time adapting to warming oceans and struggle to compete every day with the industrial fishing industry for food.
